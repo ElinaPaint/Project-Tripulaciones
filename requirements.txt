@@ -1,0 +1,7 @@
+flask
+notebook
+pandas
+sqlalchemy
+psycopg2-binary
+pmdarima
+gunicorn
